@@ -42,3 +42,18 @@ I turn fragmented data into a single source of truth to drive business growth th
 | Business Plans | Financial Modeling |
 
 [🔍 EXPLORE ALL REPOS](https://github.com/ditirahima?tab=repositories)
+### 🤝 Let's Collaborate!
+
+| 💬 Open to Work On | 📧 Let's Talk About |
+| :--- | :--- |
+| Supply Chain Optimization | Business Strategy |
+| Data Analytics Projects | Consulting |
+| Process Automation | Mentorship |
+
+<a href="আপনার-লিঙ্কডইন-প্রোফাইল-লিঙ্ক"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://ditirahima.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="mailto:আপনার-ইমেইল-ঠিকানা"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+---
+> *"Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve."*
+> - René Descartes
