@@ -18,6 +18,7 @@ I turn fragmented data into a single source of truth to drive business growth th
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-1572B6?style=for-the-badge&logo=python&logoColor=white)
 ![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-008080?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Automated Dashboard](https://img.shields.io/badge/Automated_Dashboard-FF4500?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
