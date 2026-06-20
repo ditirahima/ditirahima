@@ -20,3 +20,6 @@ I turn fragmented data into a single source of truth to drive business growth th
 
 ### 📊 My GitHub Stats
 ![Diti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditirahima&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ditirahima&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ditirahima&layout=compact&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ditirahima&theme=radical)
