@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Rahima Akter Diti 👋
 
-<!--
-**ditirahima/ditirahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Supply Chain & Operations Expert | SAP ERP & Data Analytics
 
-Here are some ideas to get you started:
+I turn fragmented data into a single source of truth to drive business growth through process optimization and strategic data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Expertise
+* **Operations:** Supply Chain Management, Demand Planning, OPSI Management
+* **Analytics:** SAP ERP, Data Analytics, Financial Modeling
+* **Tools:** Power BI, Excel, Advanced Data Visualization
+
+---
+
+### 🚀 Let's Connect
+- [Portfolio](https://ditirahima.github.io/portfolio/)
+
+---
+
+### 📊 My GitHub Stats
+![Diti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditirahima&show_icons=true&theme=dark)
