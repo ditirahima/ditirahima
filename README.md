@@ -33,3 +33,12 @@ I turn fragmented data into a single source of truth to drive business growth th
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ditirahima&layout=compact&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ditirahima&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ditirahima&theme=radical&area=true)
+### 💼 Featured Projects & Expertise
+
+| Operations Management | Data Analytics |
+| :--- | :--- |
+| Supply Chain Planning | Automated Dashboards |
+| Inventory & Ageing Control | COGS Calculation |
+| Business Plans | Financial Modeling |
+
+[🔍 EXPLORE ALL REPOS](https://github.com/ditirahima?tab=repositories)
