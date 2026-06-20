@@ -56,5 +56,9 @@ I turn fragmented data into a single source of truth to drive business growth th
 <a href="https://www.facebook.com/profile.php?id=61573295052406"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 ---
-> *"Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve."*
-> - René Descartes
+---
+<div align="center">
+  <p><i>"Optimizing processes, visualizing data, and driving growth through a single source of truth."</i></p>
+  <p><b>Built with precision and passion for excellence</b> 🚀</p>
+  <p>Developed by <b>Rahima Akter Diti</b> | © 2026</p>
+</div>
