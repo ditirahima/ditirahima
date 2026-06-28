@@ -1,6 +1,6 @@
 # Hi there! I'm Rahima Akter Diti 👋
 
-### Supply Chain & Operations Expert | SAP ERP & Data Analytics
+### Data Analyst | Operations & Supply Chain Professional | Transforming Raw Data into Strategic Business Solutions
 
 I turn fragmented data into a single source of truth to drive business growth through process optimization and strategic data analytics.
 
