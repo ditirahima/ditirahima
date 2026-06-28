@@ -2,7 +2,7 @@
 
 ### Data Analyst | Operations & Supply Chain Professional | Transforming Raw Data into Strategic Business Solutions
 
-I turn fragmented data into a single source of truth to drive business growth through process optimization and strategic data analytics.
+Turning Complex Data into Actionable Strategy.
 
 ---
 
