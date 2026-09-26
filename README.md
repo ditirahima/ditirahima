@@ -1,9 +1,6 @@
 # Hi there! I'm Rahima Akter Diti 👋
 
-### Data Analyst | Operations & Supply Chain Professional | Transforming Raw Data into Strategic Business Solutions
-
-Turning Complex Data into Actionable Strategy.
-
+### Remote Product & Supply Chain Specialist | 10+ Years’ Experience | Product Planning | Demand Planning | Inventory Management | S&OP / OPSI | SAP ERP | Supply Chain Analytics | Commercial Operations
 ---
 
 ### 🛠 Tech Stack & Expertise
