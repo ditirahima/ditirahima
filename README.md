@@ -42,22 +42,6 @@ My portfolio combines real-world domain experience with anonymized case studies 
 
 ---
 
-## Core Expertise
-
-| Planning & Operations | Analytics & Systems |
-|---|---|
-| Product Planning & Decision Support | SAP ERP |
-| Demand Planning & Forecasting | Advanced Microsoft Excel |
-| Inventory Management | Power BI |
-| S&OP / OPSI | KPI Reporting |
-| Procurement Coordination | Supply Chain Analytics |
-| Production Coordination | Data Visualization |
-| Product Operations | Management Reporting |
-| Commercial Operations | Business Performance Analysis |
-| New Product Launch Support | SQL & Python — Developing |
-
----
-
 ## Career Impact
 
 - **10+ years** of total professional experience across Finance, Commercial Operations, Product, and Supply Chain roles.
@@ -81,7 +65,7 @@ My portfolio combines real-world domain experience with anonymized case studies 
 - Management reporting and decision support
 - Preparation of analytical inputs for HOD and management review
 
-Final strategic decisions, approvals, pricing direction, channel strategy, and long-term business roadmaps were owned by HOD/management.
+My role focused on preparing analytical inputs, performance analysis, planning materials, and execution support for HOD/management review and approval.
 
 ### Demand Planning, Inventory & S&OP / OPSI
 
