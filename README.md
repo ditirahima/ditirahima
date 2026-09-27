@@ -1,65 +1,37 @@
-# Hi there! I'm Rahima Akter Diti 👋
-
-### Product & Supply Chain Professional | 10+ Years' Experience
+Rahima Akter Diti
+Product & Supply Chain Professional | 10+ Years' Experience
 Product Planning Support • Demand Planning • Inventory Management • S&OP / OPSI • Product Operations • Commercial Operations • Supply Chain Analytics • SAP ERP • Advanced Excel
-
 📍 Dhaka, Bangladesh | 🌍 Open to Remote & International Roles
----
+LinkedIn • Portfolio • Email
+Professional Profile
+I am a Product & Supply Chain professional with 10+ years of experience across Finance, Sales Operations, Commercial Operations, Product Operations, Demand Planning, Inventory Management, Procurement, Production Coordination, and Supply Chain Planning.
+My work focuses on turning sales, inventory, forecast, margin, channel, and operational data into clear planning inputs and management-ready decision support. I have hands-on experience coordinating across Product, Sales, Supply Chain, Finance, Factory, Marketing, Logistics, Service, and global stakeholders.
+My portfolio combines real-world domain experience with anonymized case studies and modeled analytical projects. Proprietary employer data, confidential targets, internal pricing, and brand-sensitive information are not published.
+Core Expertise
+Planning & Operations	Analytics & Systems
+Product Planning Support	SAP ERP
+Demand Planning & Forecasting	Advanced Microsoft Excel
+Inventory Management	Power BI
+S&OP / OPSI	KPI Reporting
+Procurement & Production Coordination	Supply Chain Analytics
+Product Operations	Data Visualization
+Commercial Operations	Management Reporting
+New Product Launch Support	SQL & Python — Developing
 
-### 🛠 Tech Stack & Expertise
 
-![Supply Chain](https://img.shields.io/badge/Supply_Chain_Management-3776AB?style=for-the-badge&logo=ops&logoColor=white)
-![Demand Planning](https://img.shields.io/badge/Demand_Planning-FF9900?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Inventory Tracking](https://img.shields.io/badge/Inventory_Tracking-800080?style=for-the-badge&logo=shopify&logoColor=white)
-![DIO & Ageing](https://img.shields.io/badge/DIO_%26_Ageing_Control-FF6347?style=for-the-badge&logo=google-sheets&logoColor=white)
-![COGS Calculation](https://img.shields.io/badge/COGS_Calculation-2E8B57?style=for-the-badge&logo=cashapp&logoColor=white)
-![Business Plan](https://img.shields.io/badge/Business_Plan_Presentation-4682B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![SAP ERP](https://img.shields.io/badge/SAP_ERP-E1251B?style=for-the-badge&logo=sap&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-1572B6?style=for-the-badge&logo=python&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-008080?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Automated Dashboard](https://img.shields.io/badge/Automated_Dashboard-FF4500?style=for-the-badge&logo=powerbi&logoColor=white)
-
----
-
-### 🚀 Let's Connect
-- [Portfolio](https://ditirahima.github.io/portfolio/)
-
----
-
-### 📊 My GitHub Stats
-![Diti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditirahima&show_icons=true&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ditirahima&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ditirahima&layout=compact&theme=radical)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ditirahima&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ditirahima&theme=radical&area=true)
-### 💼 Featured Projects & Expertise
-
-| Operations Management | Data Analytics |
-| :--- | :--- |
-| Supply Chain Planning | Automated Dashboards |
-| Inventory & Ageing Control | COGS Calculation |
-| Business Plans | Financial Modeling |
-
-[🔍 EXPLORE ALL REPOS](https://github.com/ditirahima?tab=repositories)
-### 🤝 Let's Collaborate!
-
-| 💬 Open to Work On | 📧 Let's Talk About |
-| :--- | :--- |
-| Supply Chain Optimization | Business Strategy |
-| Data Analytics Projects | Consulting |
-| Process Automation | Mentorship |
-
-<a href="https://www.linkedin.com/in/rahima-akter-diti-9ab828311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.upwork.com/freelancers/~014fb216037c9e53f0"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
-<a href="https://ditirahima.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-<a href="mailto:ditirahima@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=61573295052406"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-
----
----
-<div align="center">
-  <p><i>"Optimizing processes, visualizing data, and driving growth through a single source of truth."</i></p>
-  <p><b>Built with precision and passion for excellence</b> 🚀</p>
-  <p>Developed by <b>Rahima Akter Diti</b> | © 2026</p>
-</div>
+Career Impact
+- 10+ years of total professional experience across finance, commercial operations, product, and supply chain roles.
+- 5+ years of specialized Product & Supply Chain experience.
+- Worked across 5 product categories in a multi-category consumer electronics portfolio.
+- Supported analysis and planning in a division that achieved 30% YoY growth.
+- Contributed to planning and operational execution during a 140% growth surge that received global business recognition.
+- Coordinated demand, procurement, production, shipment, inventory, product, and commercial requirements across cross-functional and international stakeholders.
+What I Work On
+Product Planning & Business Planning Support
+Historical sales analysis, product performance, inventory, margin, forecast accuracy, market and competitor research, product positioning inputs, launch planning support, and management reporting.
+Demand Planning, Inventory & S&OP / OPSI
+Forecast vs. actual analysis, demand-supply alignment, DIO and ageing review, inventory availability, procurement and production coordination, gap analysis, and KPI reporting.
+Product Operations & Commercial Execution
+Product performance analysis, new product launch support, feature and USP communication, display and showroom execution, dealer coordination, product training, sell-out support, and cross-functional follow-through.
+Supply Chain Analytics & Decision Support
+ERP and business-data analysis, inventory risk, sales and supply trends, KPI dashboards, management reporting, and operational decision support.
