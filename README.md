@@ -2,8 +2,9 @@
 
 ### Product & Supply Chain Professional | 10+ Years' Experience
 Product Planning Support • Demand Planning • Inventory Management • S&OP / OPSI • Product Operations • Commercial Operations • Supply Chain Analytics • SAP ERP • Advanced Excel
----
+
 📍 Dhaka, Bangladesh | 🌍 Open to Remote & International Roles
+---
 
 ### 🛠 Tech Stack & Expertise
 
