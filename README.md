@@ -1,6 +1,7 @@
 # Hi there! I'm Rahima Akter Diti 👋
 
-### Remote Product & Supply Chain Specialist | 10+ Years’ Experience | Product Planning | Demand Planning | Inventory Management | S&OP / OPSI | SAP ERP | Supply Chain Analytics | Commercial Operations
+### Product & Supply Chain Professional | 10+ Years' Experience
+Product Planning Support • Demand Planning • Inventory Management • S&OP / OPSI • Product Operations • Commercial Operations • Supply Chain Analytics • SAP ERP • Advanced Excel
 ---
 
 ### 🛠 Tech Stack & Expertise
