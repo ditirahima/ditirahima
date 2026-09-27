@@ -42,6 +42,22 @@ My portfolio combines real-world domain experience with anonymized case studies 
 
 ---
 
+## Core Expertise
+
+| Planning & Operations | Analytics & Systems |
+|---|---|
+| Product Planning & Decision Support | SAP ERP |
+| Demand Planning & Forecasting | Advanced Microsoft Excel |
+| Inventory Management | Power BI |
+| S&OP / OPSI | KPI Reporting |
+| Procurement Coordination | Supply Chain Analytics |
+| Production Coordination | Data Visualization |
+| Product Operations | Management Reporting |
+| Commercial Operations | Business Performance Analysis |
+| New Product Launch Support | SQL & Python — Developing |
+
+---
+
 ## Career Impact
 
 - **10+ years** of total professional experience across Finance, Commercial Operations, Product, and Supply Chain roles.
